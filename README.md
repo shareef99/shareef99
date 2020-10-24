@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I'm shareef :boy:
+**🔭 I’m currently working on ...**
+- My [portfolio website](https://portfolio.shareef.vercel.app/)
+- Documenting the challenges I face will learning and teaching others to solve same problem with my [Blogs](https://portfolio.shareef.vercel.app/blog)
+
+**:stuck_out_tongue:Things I code with**
+- JavaScript:sparkling_heart:.
+- CSS.
+- HTML.
+- SCSS:sparkling_heart:.
+
+**:muscle:Things I'm passionate about**
+- Web development.
+- Teaching Mathematics.
+- Writing stories.
+
+**🌱 I’m currently learning ...**
+- ReactJS
+- NextJS
+
+**📫 How to reach me: ...**
+- [Email](mailto:nadeemshareef934@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/nadeem-shareef-7a8394182/)
+- [Instagram](https://www.instagram.com/shareefbhai_/)
+
+**⚡ Fun fact: ...**
+- I'm a self-taught web developer.
+- Check out my [first website](https://shareef99.github.io/myFirstWebpage/)
