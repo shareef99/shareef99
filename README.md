@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 - CSS.
 - HTML.
 - SCSS:sparkling_heart:.
+- TailwindCSS
+- React.
+- NextJS.
 
 **:muscle:Things I'm passionate about**
 - Web development.
@@ -33,6 +36,7 @@ Here are some ideas to get you started:
 **🌱 I’m currently learning ...**
 - ReactJS
 - NextJS
+- Firebase
 
 **📫 How to reach me: ...**
 - [Email](mailto:nadeemshareef934@gmail.com)
@@ -42,3 +46,5 @@ Here are some ideas to get you started:
 **⚡ Fun fact: ...**
 - I'm a self-taught web developer.
 - Check out my [first website](https://shareef99.github.io/myFirstWebpage/)
+- Check out my [portfolio](https://portfolio.shareef.vercel.app/)
+- Have a look at my fav project [Todo App](https://todo-shareef.web.app/)
