@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## I'm shareef :boy:
 **🔭 I’m currently working on ...**
-- My [portfolio website](https://portfolio.shareef.vercel.app/)
+- My [Todo App](https://todo-shareef.web.app/)
 - Documenting the challenges I face will learning and teaching others to solve same problem with my [Blogs](https://portfolio.shareef.vercel.app/blog)
 
 **:stuck_out_tongue:Things I code with**
