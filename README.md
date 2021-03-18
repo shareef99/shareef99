@@ -17,16 +17,19 @@ Here are some ideas to get you started:
 ## I'm shareef :boy:
 **🔭 I’m currently working on ...**
 - My [Todo App](https://todo-shareef.web.app/)
+- [Notes](https://onlineounotes.web.app/)
 - Documenting the challenges I face will learning and teaching others to solve same problem with my [Blogs](https://portfolio.shareef.vercel.app/blog)
 
 **:stuck_out_tongue:Things I code with**
 - JavaScript:sparkling_heart:.
+- TypeScript.
 - CSS.
 - HTML.
 - SCSS:sparkling_heart:.
-- TailwindCSS
+- TailwindCSS:sparkling_heart:
 - React.
-- NextJS.
+- NextJS.:sparkling_heart:
+- Firebase:sparkling_heart:
 
 **:muscle:Things I'm passionate about**
 - Web development.
@@ -37,6 +40,7 @@ Here are some ideas to get you started:
 - ReactJS
 - NextJS
 - Firebase
+- TypeScript
 
 **📫 How to reach me: ...**
 - [Email](mailto:nadeemshareef934@gmail.com)
@@ -48,3 +52,4 @@ Here are some ideas to get you started:
 - Check out my [first website](https://shareef99.github.io/myFirstWebpage/)
 - Check out my [portfolio](https://portfolio.shareef.vercel.app/)
 - Have a look at my fav project [Todo App](https://todo-shareef.web.app/)
+- Checkout my latest project [notes](https://onlineounotes.web.app/)
