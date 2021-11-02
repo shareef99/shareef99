@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ## I'm shareef :boy:
 **🔭 I’m currently working on ...**
-- [Todo App](https://todo-shareef.web.app/)
 - [Your OU Notes](https://yourounotes.vercel.app/)
 - Documenting the challenges I face while learning and teaching others to solve same problem with my [Blogs](https://dev.to/shareef)
 
