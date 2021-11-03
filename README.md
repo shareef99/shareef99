@@ -50,5 +50,4 @@ Here are some ideas to get you started:
 - I'm a self-taught web developer.
 - Check out my [first website](https://shareef99.github.io/myFirstWebpage/)
 - Check out my [portfolio](https://portfolio.shareef.vercel.app/)
-- Have a look at my fav project [Todo App](https://todo-shareef.web.app/)
 - Checkout my latest project [notes](https://yourounotes.vercel.app/)
