@@ -51,3 +51,4 @@ Here are some ideas to get you started:
 - Check out my [first website](https://shareef99.github.io/myFirstWebpage/)
 - Check out my [portfolio](https://portfolio.shareef.vercel.app/)
 - Checkout my latest project [notes](https://yourounotes.vercel.app/)
+- My favourite blog [Context API with TypeScript and Next.JS](https://dev.to/shareef/context-api-with-typescript-and-next-js-2m25/)
