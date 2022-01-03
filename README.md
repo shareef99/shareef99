@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## I'm shareef :boy:
 **🔭 I’m currently working on ...**
-- [Your OU Notes](https://yourounotes.vercel.app/)
+- Improving my programming skills and college stuff.
 - Documenting the challenges I face while learning and teaching others to solve same problem with my [Blogs](https://dev.to/shareef)
 
 **:stuck_out_tongue:Things I code with**
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 - [Email](mailto:nadeemshareef934@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/nadeem-shareef-7a8394182/)
 - [Instagram](https://www.instagram.com/shareefbhai_/)
+- [Twitter](https://twitter.com/shareefBhai99)
 
 **⚡ Fun fact: ...**
 - I'm a self-taught web developer.
