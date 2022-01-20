@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## I'm shareef :boy:
 **🔭 I’m currently working on ...**
 - Improving my programming skills and college stuff.
+- Learning about colors and developing website to help other with colors, [github repo of project](https://github.com/shareef99/colors).
 - Documenting the challenges I face while learning and teaching others to solve same problem with my [Blogs](https://dev.to/shareef)
 
 **:stuck_out_tongue:Things I code with**
