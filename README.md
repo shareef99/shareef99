@@ -14,33 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm shareef :boy:
+## I'm Shareef :boy:
 **🔭 I’m currently working on ...**
 - Improving my programming skills and college stuff.
-- Learning about colors and developing website to help other with colors, [github repo of project](https://github.com/shareef99/colors), [Live preview](https://colors-sigma.vercel.app/).
-- Documenting the challenges I face while learning and teaching others to solve same problem with my [Blogs](https://dev.to/shareef)
+- Learning about colors and developing the website to help others with colors, [github repo of project](https://github.com/shareef99/colors), [Live preview](https://colors-sigma.vercel.app/).
+- Documenting the challenges I face while learning and teaching others to solve the same problem with my [Blogs](https://dev.to/shareef)
 
 **:stuck_out_tongue:Things I code with**
-- JavaScript:sparkling_heart:.
-- TypeScript:sparkling_heart:.
-- CSS🤪.
-- HTML.
-- SCSS.
-- TailwindCSS:sparkling_heart:
+- JavaScript/TypeScript:sparkling_heart:
+- CSS🤪/TailwindCSS:sparkling_heart:.
 - React.
 - NextJS.:sparkling_heart:
 - Firebase:sparkling_heart:
+- TanStack Query, Router, Table :sparkling_heart:
 
-**:muscle:Things I'm passionate about**
+**:muscle: Things I'm passionate about**
 - Web development.
-- Teaching Mathematics.
+- Teaching Mathematics and Web Development.
 - Writing stories.
 
 **🌱 I’m currently learning ...**
-- ReactJS
-- NextJS
-- Firebase
-- TypeScript
+- AWS (DevOps)
+- NodeJS
 
 **📫 How to reach me: ...**
 - [Email](mailto:nadeemshareef934@gmail.com)
@@ -50,7 +45,7 @@ Here are some ideas to get you started:
 
 **⚡ Fun fact: ...**
 - I'm a self-taught web developer.
+- Currently working with [KMZee Technologies](kmzee.tech)
 - Check out my [first website](https://shareef99.github.io/myFirstWebpage/)
 - Check out my [portfolio](https://portfolio.shareef.vercel.app/)
-- Checkout my latest project [notes](https://yourounotes.vercel.app/)
-- My favourite blog [Context API with TypeScript and Next.JS](https://dev.to/shareef/context-api-with-typescript-and-next-js-2m25/)
+- My favorite blog [Context API with TypeScript and Next.JS](https://dev.to/shareef/context-api-with-typescript-and-next-js-2m25/)
