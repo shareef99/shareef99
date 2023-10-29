@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 ## I'm Shareef :boy:
 **🔭 I’m currently working on ...**
-- Improving my programming skills and college stuff.
-- Learning about colors and developing the website to help others with colors, [github repo of project](https://github.com/shareef99/colors), [Live preview](https://colors-sigma.vercel.app/).
+- Working as a software engineer at [KMZee Technologies](kmzee.tech)
 - Documenting the challenges I face while learning and teaching others to solve the same problem with my [Blogs](https://dev.to/shareef)
 
 **:stuck_out_tongue:Things I code with**
