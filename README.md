@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - [Email](mailto:nadeemshareef934@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/nadeem-shareef-7a8394182/)
 - [Instagram](https://www.instagram.com/shareefbhai_/)
-- [Twitter](https://twitter.com/shareefBhai99)
+- [Twitter](https://twitter.com/shareef99_)
 
 **⚡ Fun fact: ...**
 - I'm a self-taught web developer.
