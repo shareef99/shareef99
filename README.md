@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 - I'm a self-taught web developer.
 - Currently working with [KMZee Technologies](kmzee.tech)
 - Check out my [first website](https://shareef99.github.io/myFirstWebpage/)
-- Check out my [portfolio](https://portfolio.shareef.vercel.app/)
+- Check out my [portfolio](https://portfolio-shareef.vercel.app/)
 - My favorite blog [Context API with TypeScript and Next.JS](https://dev.to/shareef/context-api-with-typescript-and-next-js-2m25/)
